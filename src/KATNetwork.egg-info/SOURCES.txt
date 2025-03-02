@@ -1,0 +1,10 @@
+LICENSE.md
+README.md
+setup.py
+src/KATNetwork/KATNetwork.py
+src/KATNetwork/__init__.py
+src/KATNetwork.egg-info/PKG-INFO
+src/KATNetwork.egg-info/SOURCES.txt
+src/KATNetwork.egg-info/dependency_links.txt
+src/KATNetwork.egg-info/requires.txt
+src/KATNetwork.egg-info/top_level.txt
