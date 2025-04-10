@@ -1,4 +1,4 @@
-Metadata-Version: 2.2
+Metadata-Version: 2.4
 Name: KATNetwork
 Version: 1.0.0
 Summary: PyTorch-based module for KAT layers and KAT MLPs.
@@ -23,6 +23,7 @@ Dynamic: author-email
 Dynamic: classifier
 Dynamic: home-page
 Dynamic: license
+Dynamic: license-file
 Dynamic: requires-dist
 Dynamic: requires-python
 Dynamic: summary
