@@ -1,5 +1,5 @@
 # KATNetwork
-KATNetwork is a <a href="https://pytorch.org/"  target="_blank" rel="noopener">PyTorch</a>-based package which implements Kolmogorov-Arnold Networks adopted by <a href="https://yauhenitalochkan.github.io/MyWebSite/"  target="_blank" rel="noopener">Dr. Yauheni Talochka</a>.
+KATNetwork is a <a href="https://pytorch.org/"  target="_blank" rel="noopener">PyTorch</a>-based package which implements Kolmogorov-Arnold Networks.
 
 ## Publication
 The code in this repository corresponds to the following publication:
